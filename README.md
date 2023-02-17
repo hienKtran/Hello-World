@@ -18,8 +18,13 @@ Possible Titles:
   + *"Hi World"*
 
 ## Description 
-I am creating a useful README.md file in my "Hello Word" repository so users can quickly and easily understance the details of my respository. I am to create customized section headings and use **AT LEAST 4 different syntax options**.
+1. Create a useful README.md file in your repository so users can quickly and easily understand the details 
+of your repository. 
+2. To create an attractive README.md file, you will want to use the Markdown syntax. 
+3. Edit the Hello-World README.md file and create customized section headings and use **AT LEAST 4 
+different syntax options** (for example, bold, bullet points, headings, links, etc).
 
+## How to Run Program
 Progress so far:
 - [x] STEP 1: Create a GitHub account 
 - [x] STEP 2: GitHub Skills La
@@ -27,12 +32,6 @@ Progress so far:
 file
 - [x] STEP 4: Create a sample README.md file
 - [x] STEP 5: Upload your picture and complete your profile 
-## How to Run Program
-1. Create a useful README.md file in your repository so users can quickly and easily understand the details 
-of your repository. 
-2. To create an attractive README.md file, you will want to use the Markdown syntax. 
-3. Edit the Hello-World README.md file and create customized section headings and use AT LEAST 4 
-different syntax options (for example, bold, bullet points, headings, links, etc).
 ## Files Used 
 + [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 + [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
