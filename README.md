@@ -32,6 +32,16 @@ Progress so far:
 file
 - [x] STEP 4: Create a sample README.md file
 - [x] STEP 5: Upload your picture and complete your profile 
+- [x] STEP 6: Log into LinkedIn Learning using your HawkID 
+- [x] STEP 7:  CHOOSE: Watch either the LinkedIn Learning session called 
+- [x] GitHub for Data Scientists or Craft a Great GitHub Profile 
+- [x] STEP 8:  Complete Learning GitHub Course and Earn a Certificate 
+> You finish the LinkedIn Learning course, you have an opportunity to gain a certificate.  This certificate is a great 
+way to showcase your skills.  You can add this certificate to your resume and your LinkedIn profile. 
+ 
+- [x] STEP 9:  Submit GitHub Assignment 
+Download your certificate and submit your certificate and enter your personalized GitHub URL as a comment to 
+demonstrate you completed this work.  
 ## Files Used 
 + [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 + [Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
